@@ -1,4 +1,4 @@
-#do a "pip install ultralytics" first
+#"pip install ultralytics" first
 
 from ultralytics import YOLO
 
